@@ -6,7 +6,7 @@ Ask me anything about cricket. I will try to answer it to the best of my knowled
 This notebook is an attempt to build a cricket ama interface using RAG.
 
 # Data source
-1. [pages-articles-multistream wiki dump](https://dumps.wikimedia.org/enwiki/latest/)
+1. Data has been generated using [pages-articles-multistream wiki dump](https://dumps.wikimedia.org/enwiki/latest/). Alternatively it can be downloaded from [here](https://huggingface.co/datasets/mrsearchwolf/cricket-wiki)
 
 # Tech Stack
 1. [Haystack](https://docs.haystack.deepset.ai/docs)
